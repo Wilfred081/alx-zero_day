@@ -1,2 +1,5 @@
-[master 83a9aa6] Cool, all my changes will be now part of the main branch, ready to be deployed!
- 1 file changed, 3 insertions(+), 1 deletion(-)
+Collaboration is cool, but not really when you update the same file at the same time…
+
+
+
+
